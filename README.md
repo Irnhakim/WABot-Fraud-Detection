@@ -27,7 +27,7 @@ WABot-Fraud-Detection is a WhatsApp bot that uses OpenAI GPT technology to ident
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Irnhakim/WABot-Fraud-Detection/
 cd WABot-Fraud-Detection
 ```
 
