@@ -59,7 +59,7 @@ Edit the `config.json` file to configure the bot:
 {
     "apiKey": "YOUR_OPENAI_API_KEY",
     "SysContent": "A smart assistant capable of identifying fraud messages or not",
-    "AIModel": "ft:gpt-3.5-turbo-1106:personal::8QeYIySc"
+    "AIModel": "AIMODEL"
 }
 ```
 
